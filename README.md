@@ -13,3 +13,4 @@ and to use Node.js which will act as the authoritative server, in this client-se
 look to investigate alternative architectures for implementing multiplayer, with other various libraries
 available.
 
+[![WebSockets Walkthrough Video](https://img.youtube.com/vi/ielZoBq_tck/0.jpg)](https://www.youtube.com/watch?v=ielZoBq_tck)
