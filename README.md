@@ -14,4 +14,5 @@ look to investigate alternative architectures for implementing multiplayer, with
 available.
 
 Detailed Report & Analysis of Project:
+
 [![WebSockets Walkthrough Video](https://img.youtube.com/vi/ielZoBq_tck/0.jpg)](https://www.youtube.com/watch?v=ielZoBq_tck)
